@@ -1,4 +1,4 @@
-# 💻 Programación 2
+# 💻 Programación II
 
 **Tecnicatura Universitaria en Programación**  
 📍 _Universidad Tecnológica Nacional_
@@ -11,13 +11,14 @@
 
 ## 📂 Descripción del Repositorio
 
-Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 2**.
+Este repositorio almacena todas los trabajos prácticos desarrollados en **Java** durante la cursada de **Programación II**.
 
 📌 **Estructura del repositorio:**
 
 - Cada trabajo está organizado en carpetas individuales.
+- El **código fuente** organizado en la carpeta `src/`.
 - Se busca mantener un código limpio, ordenado y bien documentado.
 
 📌 **Unidades**
 
-- [] [01 Introducción a Java](./TP01IntroduccionAJava/)
+- [ ] [01 Introducción a Java](./src/TP01/TP01.pdf)
