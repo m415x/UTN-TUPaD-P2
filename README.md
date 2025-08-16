@@ -1,9 +1,11 @@
 # 💻 Programación II
 
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?logo=apache-netbeans-ide&logoColor=white) ![Java](https://img.shields.io/badge/Java-21.0.8.LTS-red.svg) ![License](https://img.shields.io/badge/license-MIT-green.svg) [![Ver en GitHub](https://img.shields.io/badge/Repositorio-GitHub-black?logo=github)](https://github.com/m415x/UTN-TUPaD-P2)
+
 **Tecnicatura Universitaria en Programación**  
 📍 _Universidad Tecnológica Nacional_
 
-## ✨ Estudiante
+## ✨ Alumno
 
 - **Nombre:** Cristian Daniel Lahoz Piantanida
 - **Matrícula:** 101424
@@ -22,3 +24,4 @@ Este repositorio almacena todas los trabajos prácticos desarrollados en **Java*
 📌 **Unidades**
 
 - [x] [01 Introducción a Java](./src/TP01/TP01.pdf)
+- [x] [02 Programación Estructurada](./src/TP02/TP02.pdf)
