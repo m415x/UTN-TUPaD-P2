@@ -23,5 +23,6 @@ Este repositorio almacena todas los trabajos prácticos desarrollados en **Java*
 
 📌 **Unidades**
 
-- [x] [01 Introducción a Java](./src/TP01/TP01.pdf)
-- [x] [02 Programación Estructurada](./src/TP02/TP02.pdf)
+- [x] [01 Introducción a Java](./src/TP01/TP01.md)
+- [x] [02 Programación Estructurada](./src/TP02/TP02.md)
+- [x] [03 Introducción a POO](./src/TP03/TP03.md)
