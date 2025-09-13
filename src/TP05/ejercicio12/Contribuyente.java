@@ -1,0 +1,31 @@
+package TP05.ejercicio12;
+
+public class Contribuyente {
+    
+    private String nombre;
+    private String cuil;
+
+    public Contribuyente(String nombre, String cuil) {
+        this.nombre = nombre;
+        this.cuil = cuil;
+    }
+
+    public String getNombre() {
+        return nombre;
+    }
+
+    public String getCuil() {
+        return cuil;
+    }
+
+    public void imprimirDatos() {
+        System.out.println("Contribuyente: " + nombre);
+        System.out.println("CUIL: " + cuil);
+    }
+
+    @Override
+    public String toString() {
+        return "Contribuyente{" + "nombre=" + nombre 
+                + ", cuil=" + cuil + '}';
+    }
+}

@@ -27,3 +27,4 @@ Este repositorio almacena todas los trabajos prácticos desarrollados en **Java*
 - [x] [02 Programación Estructurada](./src/TP02/TP02.md)
 - [x] [03 Introducción a POO](./src/TP03/TP03.md)
 - [x] [04 Programación Orientada a Objetos II](./src/TP04/TP04.md)
+- [x] [05 Relaciones UML 1 a 1](./src/TP05/TP05.md)
